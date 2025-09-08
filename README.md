@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+I am a CS Major at NJIT. I graduated Ocean County College with my Associates degree and now about to get my Batchelors.
+Projects I've worked on are my Quake 2/4 mods as well as my 
+
+
 <!--
 **mike8385/mike8385** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
