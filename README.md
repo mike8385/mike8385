@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 
-I am a CS Major at NJIT. I graduated Ocean County College with my Associates degree and now about to get my Batchelors.
-Projects I've worked on are my Quake 2/4 mods as well as my 
+I am a recent Alumnus at NJIT and graduated with my bachelors degree in Computer Science.
+Projects I've worked on are my Quake 2/4 mods as well as my 2D and 3D game engines and games that I made from scratch
 
 
 <!--
