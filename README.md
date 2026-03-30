@@ -3,7 +3,7 @@
 
 I am a recent Alumnus at NJIT and graduated with my bachelors degree in Computer Science.
 Projects I've worked on are my Quake 2/4 mods as well as my 2D and 3D game engines and games that I made from scratch
-
+I also worked on a patient/portal website for my capstone class
 
 <!--
 **mike8385/mike8385** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
